@@ -87,6 +87,24 @@ A list of Vim color themes with barely any colors.
 > Probably the purest black and white vim colorscheme you can find on the
 > internet.
 
+## [Lokaltog/vim-monotone](https://github.com/Lokaltog/vim-monotone)
+
+> Another monochrome vim colorscheme. Inspired by various
+> [other](https://github.com/ewilazarus/preto) >
+> [monochrome](https://github.com/pbrisbin/vim-colors-off) >
+> [colorschemes](https://github.com/fxn/vim-monochrome).
+>
+> Monotone is a middle ground between a regular colorscheme and
+> [no syntax highlighting at all](https://www.kyleisom.net/blog/2012/10/17/syntax-off/).
+> The colorscheme differentiates comments, strings and keywords with different
+> weights and shades of gray. It emphasizes errors, warnings and search
+> highlighting as shown in the screenshots below.
+
+## [fxn/vim-monochrome](https://github.com/fxn/vim-monochrome)
+
+> vim-monochrome works in GUI/true-color terminals, as well as 256-color
+> terminals.
+
 ### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
