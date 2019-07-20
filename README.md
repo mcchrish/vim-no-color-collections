@@ -99,6 +99,27 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 > A dark Vim color scheme for your focused hacking session.
 
+### [robertmeta/nofrils](https://github.com/robertmeta/nofrils)
+
+> An extremely minimalist colorscheme, even opting out of the second L in frills.
+
+### [zaki/zazen](https://github.com/zaki/zazen)
+
+> zazen vim color scheme (a personalized version of zenesque).
+
+### [bdd/noclown.vim](https://github.com/bdd/.vim/blob/master/colors/noclown.vim)
+
+> A mostly color free theme with a goal of not making your code look like a clown threw up.
+
+### [t184256/vim-boring](https://github.com/t184256/vim-boring)
+
+> a truly boring monochrome colorscheme for vim, inspired by 'noclown'.
+
+### [KKPMW/distilled-vim](https://github.com/KKPMW/distilled-vim)
+
+> Clears up syntax highlighting to reveal what is important.
+
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
