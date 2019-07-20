@@ -1,5 +1,7 @@
 # Vim no color collections
 
+A list of Vim color themes with barely any colors.
+
 ## [pgdouyon/vim-yin-yang](https://github.com/pgdouyon/vim-yin-yang)
 
 > Yin-Yang is a black and white color scheme for Vim and is heavily inspired by
@@ -18,6 +20,9 @@
 > See the [Base16 repository](https://github.com/chriskempson/base16) for more
 > information.
 
+- [Dark](https://github.com/chriskempson/base16-vim/blob/master/colors/base16-grayscale-dark.vim)
+- [Light](https://github.com/chriskempson/base16-vim/blob/master/colors/base16-grayscale-light.vim)
+
 ## [andreasvc/vim-256noir](https://github.com/andreasvc/vim-256noir)
 
 > A dark 256-color color scheme for vim.
@@ -31,7 +36,7 @@
 
 > > A 256-color / 24-bit Vim color scheme, with preference for contrast over
 > > hues.
-
+>
 > It works for me, just publishing it in case someone has similar taste and
 > wants to use it.
 
