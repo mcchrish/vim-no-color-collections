@@ -57,8 +57,6 @@ A list of Vim color themes with barely any colors.
 > - It has nice background and foreground colors
 > - In the areas where I do want color, I like how it colors things
 
-[pencil]: https://github.com/reedes/vim-colors-pencil
-
 ### [Jorengarenar/vim-colors-B_W](https://github.com/Jorengarenar/vim-colors-B_W)
 
 > Simple dark Vim colorscheme focused on black and white with occasional color
@@ -73,10 +71,6 @@ A list of Vim color themes with barely any colors.
 > A minimal colorscheme for Vim that only puts emphasis on the paramount.
 >
 > Forked from [paramount][], which is based on [pencil][] and [off][].
-
-[paramount]: https://github.com/owickstrom/vim-colors-paramount
-[pencil]: https://github.com/reedes/vim-colors-pencil
-[off]: https://github.com/reedes/vim-colors-off
 
 ### [reedes/vim-colors-pencil](https://github.com/reedes/vim-colors-pencil)
 
@@ -108,3 +102,9 @@ A list of Vim color themes with barely any colors.
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
+
+[preto]: https://github.com/ewilazarus/preto
+[base16-grayscale]: https://github.com/chriskempson/base16-vim
+[paramount]: https://github.com/owickstrom/vim-colors-paramount
+[off]: https://github.com/reedes/vim-colors-off
+[pencil]: https://github.com/reedes/vim-colors-pencil
