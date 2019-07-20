@@ -84,8 +84,8 @@ A list of Vim color themes with barely any colors.
 ### [Lokaltog/vim-monotone](https://github.com/Lokaltog/vim-monotone)
 
 > Another monochrome vim colorscheme. Inspired by various
-> [other](https://github.com/ewilazarus/preto) >
-> [monochrome](https://github.com/pbrisbin/vim-colors-off) >
+> [other](https://github.com/ewilazarus/preto)
+> [monochrome](https://github.com/pbrisbin/vim-colors-off)
 > [colorschemes](https://github.com/fxn/vim-monochrome).
 >
 > Monotone is a middle ground between a regular colorscheme and
@@ -96,8 +96,7 @@ A list of Vim color themes with barely any colors.
 
 ### [fxn/vim-monochrome](https://github.com/fxn/vim-monochrome)
 
-> vim-monochrome works in GUI/true-color terminals, as well as 256-color
-> terminals.
+> A dark Vim color scheme for your focused hacking session.
 
 #### Add some more!
 
