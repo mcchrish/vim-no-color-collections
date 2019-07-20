@@ -119,6 +119,12 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 > Clears up syntax highlighting to reveal what is important.
 
+### [axvr/photon.vim](https://github.com/axvr/photon.vim)
+
+> Photon is a low-contrast colour scheme, which cares about the little details.
+> It is based on an old version of [paramount](https://github.com/owickstrom/vim-colors-paramount)
+> and is designed to look exactly the same on 256 colour terminals as it does on
+> true colour terminals.
 
 #### Add some more!
 
