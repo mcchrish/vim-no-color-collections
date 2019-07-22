@@ -126,6 +126,14 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 > and is designed to look exactly the same on 256 colour terminals as it does on
 > true colour terminals.
 
+### [~romainl/vim-bruin](https://git.sr.ht/~romainl/vim-bruin)
+
+> A Vim colorscheme with just enough color to deserve its job title.
+>
+> * should use colors *only* for UI-related highlight groups
+> * should *only* use combinations of **b**old, **r**everse, **u**nderline, **i**talic, and **N**ONE for syntax-related highlight groups
+> * should work the same on *light* and *dark* background without human intervention
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
