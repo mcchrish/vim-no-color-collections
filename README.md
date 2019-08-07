@@ -134,6 +134,10 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 > * should *only* use combinations of **b**old, **r**everse, **u**nderline, **i**talic, and **N**ONE for syntax-related highlight groups
 > * should work the same on *light* and *dark* background without human intervention
 
+### [artanikin/vim-synthwave84](https://github.com/artanikin/vim-synthwave84)
+
+> The port of [SynthWave '84 - VS Code theme](https://github.com/robb0wen/synthwave-vscode) to Vim
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
