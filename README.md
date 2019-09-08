@@ -134,6 +134,10 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 > * should *only* use combinations of **b**old, **r**everse, **u**nderline, **i**talic, and **N**ONE for syntax-related highlight groups
 > * should work the same on *light* and *dark* background without human intervention
 
+### [andreypopp/vim-colors-plain](https://github.com/andreypopp/vim-colors-plain)
+
+> Minimalistic colorscheme which uses bold to highlight keywords and a distinguished color for constant literals (string, numbers, JSX tags).
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
