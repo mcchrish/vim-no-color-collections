@@ -138,6 +138,14 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 > Minimalistic colorscheme which uses bold to highlight keywords and a distinguished color for constant literals (string, numbers, JSX tags).
 
+### [danishprakash/vim-yami](https://github.com/danishprakash/vim-yami)
+
+> Monochromatic dark(闇) theme for Vim
+
+### [ajgrf/parchment](https://github.com/ajgrf/parchment)
+
+> Parchment is an editor theme for Vim and Emacs, inspired by Acme and Leuven. You might like it if you prefer light colorschemes but think black-on-white is too hard on your eyes, or if you find most colorschemes too busy.
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
