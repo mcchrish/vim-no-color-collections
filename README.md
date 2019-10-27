@@ -58,10 +58,9 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 > - It has nice background and foreground colors
 > - In the areas where I do want color, I like how it colors things
 
-### [Jorengarenar/vim-colors-B_W](https://github.com/Jorengarenar/vim-colors-B_W)
+### [Jorengarenar/vim-darkness](https://github.com/Jorengarenar/vim-darkness)
 
-> Simple dark Vim colorscheme focused on black and white with occasional color
-> accents when needed.
+> Simple monochrome Vim colorscheme focused on indulgeing into the darkness
 
 ### [owickstrom/vim-colors-paramount](https://github.com/owickstrom/vim-colors-paramount)
 
