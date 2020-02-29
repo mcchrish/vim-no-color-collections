@@ -147,7 +147,7 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 ### [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim)
 
-> Fogbell is a fork of [SpaceCamp](https://github.com/jaredgorski/SpaceCamp) minus color. It comes with only comments, diff, and hlsearch differentiated our if the box, but the files are easy to edit if you need more (or less) distinction. No bold or italics. Fogbell includes dark, low-contrast, and light variants.
+> Fogbell is a fork of [SpaceCamp](https://github.com/jaredgorski/SpaceCamp) minus color. It comes with only comments, diff, and hlsearch differentiated out of the box, but the files are easy to edit if you need more (or less) distinction. No bold or italics. Fogbell includes dark, low-contrast, and light variants.
 
 #### Add some more!
 
