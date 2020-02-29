@@ -145,6 +145,10 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 > Parchment is an editor theme for Vim and Emacs, inspired by Acme and Leuven. You might like it if you prefer light colorschemes but think black-on-white is too hard on your eyes, or if you find most colorschemes too busy.
 
+### [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim)
+
+> Fogbell is a fork of [SpaceCamp](https://github.com/jaredgorski/SpaceCamp) minus color. It comes with only comments, diff, and hlsearch differentiated our if the box, but the files are easy to edit if you need more (or less) distinction. No bold or italics. Fogbell includes dark, low-contrast, and light variants.
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
