@@ -149,6 +149,10 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 > Fogbell is a fork of [SpaceCamp](https://github.com/jaredgorski/SpaceCamp) minus color. It comes with only comments, diff, and hlsearch differentiated out of the box, but the files are easy to edit if you need more (or less) distinction. No bold or italics. Fogbell includes dark, low-contrast, and light variants.
 
+### [LuRsT/austere.vim](https://github.com/LuRsT/austere.vim)
+
+_Severe or stern in disposition or appearance; somber and grave_
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
