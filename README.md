@@ -153,6 +153,10 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 _Severe or stern in disposition or appearance; somber and grave_
 
+### [hardselius/warlock](https://github.com/hardselius/warlock)
+
+> Warlock is a dark, low-contrast, grayscale colorscheme for Vim based on the awesome [Apprentice](https://github.com/romainl/Apprentice) by Romain Lafourcade.
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
