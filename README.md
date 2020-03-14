@@ -151,7 +151,7 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 ### [LuRsT/austere.vim](https://github.com/LuRsT/austere.vim)
 
-_Severe or stern in disposition or appearance; somber and grave_
+> Severe or stern in disposition or appearance; somber and grave_
 
 ### [hardselius/warlock](https://github.com/hardselius/warlock)
 
