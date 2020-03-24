@@ -157,6 +157,12 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 > Warlock is a dark, low-contrast, grayscale colorscheme for Vim based on the awesome [Apprentice](https://github.com/romainl/Apprentice) by Romain Lafourcade.
 
+### [cideM/yui](https://github.com/cideM/yui)
+
+> Experimental color scheme without any colors, except what's required to display a meaningful `diff`. All syntax differentiation is achieved through font styles, so your terminal needs to support bold and italic text.
+>
+> Shades are used for things like dimming folded text.
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
