@@ -72,6 +72,10 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 >
 > Forked from [paramount][], which is based on [pencil][] and [off][].
 
+### [nikolvs/vim-sunbather](https://github.com/nikolvs/vim-sunbather)
+
+> A minimal pink colorscheme for Vim.
+
 ### [reedes/vim-colors-pencil](https://github.com/reedes/vim-colors-pencil)
 
 > A light (and dark) color scheme for Vim inspired by iA Writer
