@@ -110,7 +110,7 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 > zazen vim color scheme (a personalized version of zenesque).
 
-### [bdd/noclown.vim](https://github.com/bdd/.dotfiles/blob/master/vim/colors/noclown.vim)
+### [bdd/noclown.vim](https://github.com/bdd/.dotfiles/blob/master/dot.config/vim/colors/noclown.vim)
 
 > A mostly color free theme with a goal of not making your code look like a clown threw up.
 
