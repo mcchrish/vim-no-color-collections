@@ -66,7 +66,7 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 
 > A minimal colorscheme for Vim that only puts emphasis on the paramount.
 
-### [rj-white/vim-colors-paramountblue](https://github.com/rj-white/vim-colors-paramountblue)
+### [rj-white/vim-colors-paramountblue](https://gitlab.com/rj-white/vim-colors-paramountblue)
 
 > A minimal colorscheme for Vim that only puts emphasis on the paramount.
 >
