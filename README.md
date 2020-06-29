@@ -167,6 +167,10 @@ A list of Vim color themes with barely any colors. Go ahead, compare and
 >
 > Shades are used for things like dimming folded text.
 
+### [aditya-azad/candle-grey](https://github.com/aditya-azad/candle-grey)
+
+> A dark monochrome grey colorscheme for vim with a simple accent color.
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
