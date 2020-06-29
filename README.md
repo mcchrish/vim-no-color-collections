@@ -1,6 +1,6 @@
 # Vim no color collections
 
-A list of Vim color themes with barely any colors. Go ahead, compare and
+A list of Vim colorschemes with barely any colors. Go ahead, compare and
 **contrast**.
 
 ### [pgdouyon/vim-yin-yang](https://github.com/pgdouyon/vim-yin-yang)
