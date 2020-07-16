@@ -3,6 +3,10 @@
 A list of Vim colorschemes with barely any colors. Go ahead, compare and
 **contrast**.
 
+### [zekzekus/menguless](https://github.com/zekzekus/menguless)
+
+> A color scheme inspired by a very nice rogue like game design.
+
 ### [pgdouyon/vim-yin-yang](https://github.com/pgdouyon/vim-yin-yang)
 
 > Yin-Yang is a black and white color scheme for Vim and is heavily inspired by
