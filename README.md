@@ -12,6 +12,10 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 > historical constraints imposed by 16 color terminals, but fortunately this
 > limitation is easy to overcome.
 
+### [plan9-for-vimspace/acme-colors](https://github.com/plan9-for-vimspace/acme-colors)
+
+> acme colors for vim.
+
 ### [huyvohcmc/atlas.vim](https://github.com/huyvohcmc/atlas.vim)
 
 > Probably the purest black and white vim colorscheme you can find on the
