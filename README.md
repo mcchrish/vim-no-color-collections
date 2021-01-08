@@ -133,6 +133,11 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 > An extremely minimalist colorscheme, even opting out of the second L in frills.
 
+
+### [YorickPeterse/vim-paper](https://github.com/YorickPeterse/vim-paper)
+
+> A personal light theme for (Neo)Vim, based on the color of paper as found in various notebooks.
+
 ### [ajgrf/parchment](https://github.com/ajgrf/parchment)
 
 > Parchment is an editor theme for Vim and Emacs, inspired by Acme and Leuven. You might like it if you prefer light colorschemes but think black-on-white is too hard on your eyes, or if you find most colorschemes too busy.
