@@ -153,6 +153,10 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 > A minimal dark color scheme for VIM, inspired by badwolf and 256_noir.
 
+### [stefanvanburen/rams.vim](https://github.com/stefanvanburen/rams.vim)
+
+> A minimal vim colorscheme, inspired by the work of Dieter Rams.
+
 ### [nikolvs/vim-sunbather](https://github.com/nikolvs/vim-sunbather)
 
 > A minimal pink colorscheme for Vim.
