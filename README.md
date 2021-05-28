@@ -142,6 +142,10 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 > Parchment is an editor theme for Vim and Emacs, inspired by Acme and Leuven. You might like it if you prefer light colorschemes but think black-on-white is too hard on your eyes, or if you find most colorschemes too busy.
 
+### [widatama/vim-phoenix](https://github.com/widatama/vim-phoenix)
+
+> Monochrome Vim color scheme based on Phoenix.
+
 ### [axvr/photon.vim](https://github.com/axvr/photon.vim)
 
 > Photon is a low-contrast colour scheme, which cares about the little details.
