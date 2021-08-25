@@ -192,6 +192,10 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 > zazen vim color scheme (a personalized version of zenesque).
 
+### [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)
+
+> Zenbones is a light vim/nvim colorscheme designed to highlight code using contrasts and font variations. Colors are tasked only for other roles such as diagnostics, diffs, search matches.
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
