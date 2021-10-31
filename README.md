@@ -23,7 +23,7 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ### [LuRsT/austere.vim](https://github.com/LuRsT/austere.vim)
 
-> Severe or stern in disposition or appearance; somber and grave_
+> Severe or stern in disposition or appearance; somber and grave\_
 
 ### [chriskempson/base16-vim](https://github.com/chriskempson/base16-vim)
 
@@ -41,9 +41,11 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 > A Vim colorscheme with just enough color to deserve its job title.
 >
-> * should use colors *only* for UI-related highlight groups
-> * should *only* use combinations of **b**old, **r**everse, **u**nderline, **i**talic, and **N**ONE for syntax-related highlight groups
-> * should work the same on *light* and *dark* background without human intervention
+> - should use colors _only_ for UI-related highlight groups
+> - should _only_ use combinations of **b**old, **r**everse, **u**nderline,
+>   **i**talic, and **N**ONE for syntax-related highlight groups
+> - should work the same on _light_ and _dark_ background without human
+>   intervention
 
 ### [aditya-azad/candle-grey](https://github.com/aditya-azad/candle-grey)
 
@@ -76,7 +78,8 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ### [andreypopp/vim-colors-plain](https://github.com/andreypopp/vim-colors-plain)
 
-> Minimalistic colorscheme which uses bold to highlight keywords and a distinguished color for constant literals (string, numbers, JSX tags).
+> Minimalistic colorscheme which uses bold to highlight keywords and a
+> distinguished color for constant literals (string, numbers, JSX tags).
 
 ### [owickstrom/vim-colors-paramount](https://github.com/owickstrom/vim-colors-paramount)
 
@@ -102,7 +105,11 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ### [jaredgorski/fogbell.vim](https://github.com/jaredgorski/fogbell.vim)
 
-> Fogbell is a fork of [SpaceCamp](https://github.com/jaredgorski/SpaceCamp) minus color. It comes with only comments, diff, and hlsearch differentiated out of the box, but the files are easy to edit if you need more (or less) distinction. No bold or italics. Fogbell includes dark, low-contrast, and light variants.
+> Fogbell is a fork of [SpaceCamp](https://github.com/jaredgorski/SpaceCamp)
+> minus color. It comes with only comments, diff, and hlsearch differentiated
+> out of the box, but the files are easy to edit if you need more (or less)
+> distinction. No bold or italics. Fogbell includes dark, low-contrast, and
+> light variants.
 
 ### [zekzekus/menguless](https://github.com/zekzekus/menguless)
 
@@ -119,8 +126,8 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 ### [Lokaltog/vim-monotone](https://github.com/Lokaltog/vim-monotone)
 
 > Another monochrome vim colorscheme. Inspired by various
-> [other](https://github.com/ewilazarus/preto)
-> [monochrome](https://github.com/pbrisbin/vim-colors-off)
+> [other](https://github.com/ewilazarus/preto) >
+> [monochrome](https://github.com/pbrisbin/vim-colors-off) >
 > [colorschemes](https://github.com/fxn/vim-monochrome).
 >
 > Monotone is a middle ground between a regular colorscheme and
@@ -131,20 +138,24 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ### [bdd/noclown.vim](https://github.com/bdd/.dotfiles/blob/master/dot.config/vim/colors/noclown.vim)
 
-> A mostly color free theme with a goal of not making your code look like a clown threw up.
+> A mostly color free theme with a goal of not making your code look like a
+> clown threw up.
 
 ### [robertmeta/nofrils](https://github.com/robertmeta/nofrils)
 
-> An extremely minimalist colorscheme, even opting out of the second L in frills.
-
+> An extremely minimalist colorscheme, even opting out of the second L in
+> frills.
 
 ### [YorickPeterse/vim-paper](https://github.com/YorickPeterse/vim-paper)
 
-> A personal light theme for (Neo)Vim, based on the color of paper as found in various notebooks.
+> A personal light theme for (Neo)Vim, based on the color of paper as found in
+> various notebooks.
 
 ### [ajgrf/parchment](https://github.com/ajgrf/parchment)
 
-> Parchment is an editor theme for Vim and Emacs, inspired by Acme and Leuven. You might like it if you prefer light colorschemes but think black-on-white is too hard on your eyes, or if you find most colorschemes too busy.
+> Parchment is an editor theme for Vim and Emacs, inspired by Acme and Leuven.
+> You might like it if you prefer light colorschemes but think black-on-white is
+> too hard on your eyes, or if you find most colorschemes too busy.
 
 ### [widatama/vim-phoenix](https://github.com/widatama/vim-phoenix)
 
@@ -153,9 +164,10 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 ### [axvr/photon.vim](https://github.com/axvr/photon.vim)
 
 > Photon is a low-contrast colour scheme, which cares about the little details.
-> It is based on an old version of [paramount](https://github.com/owickstrom/vim-colors-paramount)
-> and is designed to look exactly the same on 256 colour terminals as it does on
-> true colour terminals.
+> It is based on an old version of
+> [paramount](https://github.com/owickstrom/vim-colors-paramount) and is
+> designed to look exactly the same on 256 colour terminals as it does on true
+> colour terminals.
 
 ### [ewilazarus/preto](https://github.com/ewilazarus/preto)
 
@@ -175,11 +187,14 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ### [ryanpcmcquen/true-monochrome_vim](https://github.com/ryanpcmcquen/true-monochrome_vim)
 
-> This is a true black/grey/white theme for vim. I would say it is as close as I have seen to what the original vi editors looked like (think elvis).
+> This is a true black/grey/white theme for vim. I would say it is as close as I
+> have seen to what the original vi editors looked like (think elvis).
 
 ### [hardselius/warlock](https://github.com/hardselius/warlock)
 
-> Warlock is a dark, low-contrast, grayscale colorscheme for Vim based on the awesome [Apprentice](https://github.com/romainl/Apprentice) by Romain Lafourcade.
+> Warlock is a dark, low-contrast, grayscale colorscheme for Vim based on the
+> awesome [Apprentice](https://github.com/romainl/Apprentice) by Romain
+> Lafourcade.
 
 ### [pgdouyon/vim-yin-yang](https://github.com/pgdouyon/vim-yin-yang)
 
@@ -196,7 +211,9 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ### [cideM/yui](https://github.com/cideM/yui)
 
-> Experimental color scheme without any colors, except what's required to display a meaningful `diff`. All syntax differentiation is achieved through font styles, so your terminal needs to support bold and italic text.
+> Experimental color scheme without any colors, except what's required to
+> display a meaningful `diff`. All syntax differentiation is achieved through
+> font styles, so your terminal needs to support bold and italic text.
 >
 > Shades are used for things like dimming folded text.
 
@@ -206,7 +223,9 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ### [mcchrish/zenbones.nvim](https://github.com/mcchrish/zenbones.nvim)
 
-> Zenbones is a light vim/nvim colorscheme designed to highlight code using contrasts and font variations. Colors are tasked only for other roles such as diagnostics, diffs, search matches.
+> Zenbones is a collection of vim/neovim colorschemes designed to highlight code
+> using contrasts and font variations. Colors are tasked only for other roles
+> such as diagnostics, diffs, search matches.
 
 #### Add some more!
 
