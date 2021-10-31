@@ -165,6 +165,10 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 > A minimal vim colorscheme, inspired by the work of Dieter Rams.
 
+### [kadekillary/skull-vim](https://github.com/kadekillary/skull-vim)
+
+> ☠️ Minimal monochrome theme for vim.
+
 ### [nikolvs/vim-sunbather](https://github.com/nikolvs/vim-sunbather)
 
 > A minimal pink colorscheme for Vim.
