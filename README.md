@@ -173,6 +173,10 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 > A minimal pink colorscheme for Vim.
 
+### [ryanpcmcquen/true-monochrome_vim](https://github.com/ryanpcmcquen/true-monochrome_vim)
+
+> This is a true black/grey/white theme for vim. I would say it is as close as I have seen to what the original vi editors looked like (think elvis).
+
 ### [hardselius/warlock](https://github.com/hardselius/warlock)
 
 > Warlock is a dark, low-contrast, grayscale colorscheme for Vim based on the awesome [Apprentice](https://github.com/romainl/Apprentice) by Romain Lafourcade.
