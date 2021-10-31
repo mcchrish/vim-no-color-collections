@@ -112,6 +112,10 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 > A dark Vim color scheme for your focused hacking session.
 
+### [koron/vim-monochromenote](https://github.com/koron/vim-monochromenote)
+
+> monochromenote is inspired by KOKUYO's awesome notebook.
+
 ### [Lokaltog/vim-monotone](https://github.com/Lokaltog/vim-monotone)
 
 > Another monochrome vim colorscheme. Inspired by various
