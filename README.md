@@ -227,6 +227,11 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 > using contrasts and font variations. Colors are tasked only for other roles
 > such as diagnostics, diffs, search matches.
 
+### [zenesque.vim](https://github.com/vim-scripts/zenesque.vim)
+
+> Almost colorless(shades of grey), light minimalistic color scheme.  Designed
+> for reading for long periods. Inspired by Mini.
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
