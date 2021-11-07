@@ -95,6 +95,10 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 > A light (and dark) color scheme for Vim inspired by iA Writer
 
+### [1995re/IHateSomeoneSeeingMyNote](https://github.com/1995re/IHateSomeoneSeeingMyNote)
+
+> Coloring Vim of scheme like an introvert; who doesn't like his stuff taking all attention to it
+
 ### [Jorengarenar/vim-darkness](https://github.com/Jorengarenar/vim-darkness)
 
 > Simple monochrome Vim colorscheme focused on indulgeing into the darkness
