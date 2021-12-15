@@ -112,12 +112,6 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ![](previews/paramount.png)
 
-### [rj-white/vim-colors-paramountblue](https://gitlab.com/rj-white/vim-colors-paramountblue)
-
-> A minimal colorscheme for Vim that only puts emphasis on the paramount.
->
-> Forked from [paramount][], which is based on [pencil][] and [off][].
-
 ### [reedes/vim-colors-pencil](https://github.com/reedes/vim-colors-pencil)
 
 > A light (and dark) color scheme for Vim inspired by iA Writer
