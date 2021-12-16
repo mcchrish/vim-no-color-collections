@@ -305,13 +305,6 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 > such as diagnostics, diffs, search matches.
 
 ![](previews/zenbones.png)
-![](previews/rosebones.png)
-![](previews/forestbones.png)
-![](previews/nordbones.png)
-![](previews/tokyobones.png)
-![](previews/seoulbones.png)
-![](previews/duckbones.png)
-![](previews/zenburned.png)
 ![](previews/zenwritten.png)
 ![](previews/neobones.png)
 ![](previews/vimbones.png)
