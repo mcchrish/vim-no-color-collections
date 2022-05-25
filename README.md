@@ -316,6 +316,14 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ![](previews/zenesque.png)
 
+### [komau.vim](https://github.com/ntk148v/komau.vim)
+
+> Yet another minimal colorscheme for Vim/Neovim
+
+![](https://raw.githubusercontent.com/ntk148v/komau.vim/master/screenshots/golang-dark.png)
+
+![](https://raw.githubusercontent.com/ntk148v/komau.vim/master/screenshots/golang-light.png)
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
