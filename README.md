@@ -14,6 +14,11 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ![](previews/256_noir.png)
 
+### [Alligator/accent.vim](https://github.com/Alligator/accent.vim)
+
+> A vim colourscheme with a configurable accent colour. It can help you quickly
+> tell apart different vim sessions at a glance.
+
 ### [plan9-for-vimspace/acme-colors](https://github.com/plan9-for-vimspace/acme-colors)
 
 > acme colors for vim.
