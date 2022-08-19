@@ -74,6 +74,14 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 ![](previews/candle-grey.png)
 ![](previews/candle-grey-transparent.png)
 
+### [komau.vim](https://github.com/ntk148v/komau.vim)
+
+> Yet another minimal colorscheme for Vim/Neovim
+
+![](https://raw.githubusercontent.com/ntk148v/komau.vim/master/screenshots/golang-dark.png)
+
+![](https://raw.githubusercontent.com/ntk148v/komau.vim/master/screenshots/golang-light.png)
+
 ### [davidosomething/vim-colors-meh](https://github.com/davidosomething/vim-colors-meh)
 
 > > A 256-color / 24-bit Vim color scheme, with preference for contrast over
@@ -320,14 +328,6 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 > for reading for long periods. Inspired by Mini.
 
 ![](previews/zenesque.png)
-
-### [komau.vim](https://github.com/ntk148v/komau.vim)
-
-> Yet another minimal colorscheme for Vim/Neovim
-
-![](https://raw.githubusercontent.com/ntk148v/komau.vim/master/screenshots/golang-dark.png)
-
-![](https://raw.githubusercontent.com/ntk148v/komau.vim/master/screenshots/golang-light.png)
 
 #### Add some more!
 
