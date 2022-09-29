@@ -198,6 +198,10 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 ![](previews/nofrils-sepia.png)
 ![](previews/nofrils-acme.png)
 
+### [n1ghtmare/noirblaze-vim](https://github.com/n1ghtmare/noirblaze-vim)
+
+> A dark minimal vim theme with a touch of hot pink (magenta?).
+
 ### [YorickPeterse/vim-paper](https://github.com/YorickPeterse/vim-paper)
 
 > A personal light theme for (Neo)Vim, based on the color of paper as found in
