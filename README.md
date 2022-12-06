@@ -154,6 +154,17 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 ![](previews/menguless.png)
 ![](previews/menguless_light.png)
 
+### [jaredgorski/Mies.vim](https://github.com/jaredgorski/Mies.vim)
+
+> Inspired by Mies Van Der Rohe's architecture in the Chicago area, particularly
+> [Farnsworth House](https://www.youtube.com/watch?v=NRKUmxr1r40&t=143s),
+> Illinois Institute of Technology's [S. R. Crown Hall](https://www.youtube.com/watch?v=NRKUmxr1r40&t=589s),
+> and [860-880 Lake Shore Drive](https://www.youtube.com/watch?v=NRKUmxr1r40&t=673s).
+> Diff colors inspired by Dieter Rams' Braun ET66 calculator.
+
+![](previews/Mies.vim.png)
+![](previews/Mies.vim_light.png)
+
 ### [fxn/vim-monochrome](https://github.com/fxn/vim-monochrome)
 
 > A dark Vim color scheme for your focused hacking session.
