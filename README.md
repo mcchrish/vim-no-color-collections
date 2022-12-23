@@ -332,6 +332,13 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ![](previews/zenesque.png)
 
+### [rasmus.nvim](https://github.com/kvrohit/rasmus.nvim)
+
+> Vim clone of Rasmus Andersson's Sublime theme
+> Mostly gray and white, with some muted colors
+
+![](previews/rasmus.png)
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
