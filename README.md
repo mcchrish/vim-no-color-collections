@@ -19,6 +19,8 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 > A vim colourscheme with a configurable accent colour. It can help you quickly
 > tell apart different vim sessions at a glance.
 
+![](https://raw.githubusercontent.com/Alligator/accent.vim/images/accent.gif)
+
 ### [plan9-for-vimspace/acme-colors](https://github.com/plan9-for-vimspace/acme-colors)
 
 > acme colors for vim.
@@ -170,8 +172,7 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 > and [860-880 Lake Shore Drive](https://www.youtube.com/watch?v=NRKUmxr1r40&t=673s).
 > Diff colors inspired by Dieter Rams' Braun ET66 calculator.
 
-![](previews/Mies.vim.png)
-![](previews/Mies.vim_light.png)
+![](https://raw.githubusercontent.com/jaredgorski/Mies.vim/main/.media/full-screenshot_mies.png)
 
 ### [fxn/vim-monochrome](https://github.com/fxn/vim-monochrome)
 
@@ -220,6 +221,8 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 ### [n1ghtmare/noirblaze-vim](https://github.com/n1ghtmare/noirblaze-vim)
 
 > A dark minimal vim theme with a touch of hot pink (magenta?).
+
+![](https://user-images.githubusercontent.com/3255810/190263629-a0612ab8-6c33-46dd-8077-f8078594e052.png)
 
 ### [YorickPeterse/vim-paper](https://github.com/YorickPeterse/vim-paper)
 
