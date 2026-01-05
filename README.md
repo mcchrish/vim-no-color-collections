@@ -347,6 +347,12 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ![](previews/zenesque.png)
 
+### [weak-black-color.vim](https://github.com/A4-Tacks/weak-black-color.vim)
+
+> Grayscale color scheme, low contrast, zero saturation, distinguishable
+
+![](previews/weakblack.png)
+
 ### [rasmus.nvim](https://github.com/kvrohit/rasmus.nvim)
 
 > Vim clone of Rasmus Andersson's Sublime theme
