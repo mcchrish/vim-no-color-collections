@@ -21,6 +21,13 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ![](https://raw.githubusercontent.com/Alligator/accent.vim/images/accent.gif)
 
+### [silentium-theme/silentium](https://github.com/silentium-theme/silentium.nvim)
+
+> Pragmatic, logical, and monochrome theme for Neovim.
+> Customizable accent color.
+
+![](previews/silentium.png)
+
 ### [plan9-for-vimspace/acme-colors](https://github.com/plan9-for-vimspace/acme-colors)
 
 > acme colors for vim.
