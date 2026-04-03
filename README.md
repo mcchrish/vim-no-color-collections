@@ -367,6 +367,16 @@ A list of Vim colorschemes with barely any colors. Go ahead, compare and
 
 ![](previews/rasmus.png)
 
+### [y9nika.nvim][y9nika]
+
+> Neovim Theme with focus on Declarations rather than Statements.
+
+![](previews/y9nika-less-dark.png)
+
+_Has [flavors][y9nika] that include ports of famous colorschemes._
+
+[y9nika]: https://github.com/y9san9/y9nika.nvim
+
 #### Add some more!
 
 Send a Pull Request to add more color (or lack there of) themes!
